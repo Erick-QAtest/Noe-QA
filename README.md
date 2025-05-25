@@ -113,5 +113,5 @@ You can include links to your most relevant repositories here. For example:
 
 ##   Connect
 
-* LinkedIn: [Your LinkedIn profile](https://www.linkedin.com/in/noe-cortes) [cite: 2]
+* LinkedIn: https://www.linkedin.com/in/noe-cortes [cite: 2]
 * Email: [noe.cortescp@gmail.com](mailto:noe.cortescp@gmail.com) [cite: 1]
